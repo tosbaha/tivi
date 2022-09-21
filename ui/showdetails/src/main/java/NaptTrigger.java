@@ -1,3 +1,0 @@
-package showdetails;
-class NaptTrigger {
-}

@@ -1,3 +1,0 @@
-package discover;
-class NaptTrigger {
-}

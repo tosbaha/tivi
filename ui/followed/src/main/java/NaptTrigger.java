@@ -1,3 +1,0 @@
-package followed;
-class NaptTrigger {
-}

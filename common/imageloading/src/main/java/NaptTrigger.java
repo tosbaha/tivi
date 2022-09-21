@@ -1,3 +1,0 @@
-package imageloading;
-class NaptTrigger {
-}

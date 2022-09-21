@@ -1,3 +1,0 @@
-package search;
-class NaptTrigger {
-}

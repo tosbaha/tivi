@@ -1,3 +1,0 @@
-package trakt;
-class NaptTrigger {
-}

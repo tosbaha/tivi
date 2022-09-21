@@ -1,3 +1,0 @@
-package popular;
-class NaptTrigger {
-}

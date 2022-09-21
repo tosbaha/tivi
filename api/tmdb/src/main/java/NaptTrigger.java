@@ -1,3 +1,0 @@
-package tmdb;
-class NaptTrigger {
-}
