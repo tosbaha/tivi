@@ -1,0 +1,3 @@
+package account;
+class NaptTrigger {
+}

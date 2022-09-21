@@ -1,0 +1,3 @@
+package logging;
+class NaptTrigger {
+}

@@ -1,0 +1,3 @@
+package episodedetails;
+class NaptTrigger {
+}

@@ -1,0 +1,3 @@
+package watched;
+class NaptTrigger {
+}

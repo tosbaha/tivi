@@ -1,0 +1,3 @@
+package recommended;
+class NaptTrigger {
+}

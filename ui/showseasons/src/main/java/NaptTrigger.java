@@ -1,0 +1,3 @@
+package showseasons;
+class NaptTrigger {
+}

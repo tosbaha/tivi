@@ -1,0 +1,3 @@
+package showdetails;
+class NaptTrigger {
+}

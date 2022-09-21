@@ -1,0 +1,3 @@
+package trending;
+class NaptTrigger {
+}
